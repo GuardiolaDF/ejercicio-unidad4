@@ -1,0 +1,26 @@
+background{
+  color:aquamarine;
+}
+h1{color:blue}
+form {
+    margin: 0 0 0 30px;
+
+}
+
+#usuario, #clave {
+    display: block;
+    margin: 5px 0 5px 0;
+    padding: 5px;
+  
+}
+
+#btn {
+    margin: 8px 0 0 0;
+    padding: 8px;
+    border-width:6px;
+    border-color:red; 
+    
+  
+}
+
+
